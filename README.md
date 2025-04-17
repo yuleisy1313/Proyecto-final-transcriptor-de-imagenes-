@@ -65,3 +65,8 @@ Mostrará el texto y la emoción detectada en pantalla.
 
 ## 📌 Nota
 Este sistema no detecta emociones directamente desde imágenes sin texto. Está orientado a imágenes que contienen mensajes, frases, o textos emocionales.
+
+## 📝 Créditos
+
+- **Desarrollo**: Yuleisy Carmona Vasquez (22-SISN-2-016)
+- **Materia**: Inteligencia Artificial
